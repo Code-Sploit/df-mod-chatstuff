@@ -10,3 +10,7 @@ A DragonFire CSM that add's chat stuff. (Don't mistake this for the chateffects 
 
 # Cheat-Menu entrys
     1) AutoHi
+
+# Contributors
+    1) @j45 For designing the original idea
+    2) @Code-Sploit For desiging code
